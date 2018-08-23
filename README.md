@@ -19,7 +19,7 @@ How to see images with more than 1024 pixels width:
 4.select whole image (ctrl + A)        
 5.choose font ("Digital-7 Mono") bold it and set size to 1         
 6.unselect the image        
-7.DONE ! on botton left there is a scale :)        
+7.DONE ! on botton right there is a scale :)        
         
 Program is not working:        
 A:        
